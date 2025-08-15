@@ -1,12 +1,20 @@
-# Check Ascending Order
+# Palindrome Number (LeetCode Problem 9)
 
-This Java program takes input from the user and checks whether the entered array is sorted in **ascending order**.
+This repository contains my Java solution for **LeetCode Problem 9 - Palindrome Number**.
 
-**Input:**
-Enter the size of the array:
-5
-Enter the elements of the array:
-10 20 30 40 50
+### Problem:
+Check whether the given number is a palindrome or not.
 
-**Output:**
-Array is sorted in ascending order.
+### Files:
+- `Palindrome.java`: Java code to solve LeetCode Problem 9
+- `Check_asce.java`: Program to check ascending order
+- `Sum_odd.java`: Program to find sum of odd numbers
+
+---
+
+### Output Examples
+
+| Input | Output  |
+|----- -|---------|
+| 121   | true    |
+| 123   | false   |
